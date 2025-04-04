@@ -10,7 +10,7 @@ library(writexl)
 d <- read.delim("concord_both.cf.stat", header = T, comment.char='#')
 
 
-#plot the values
+#Plotting sCF vs. gCF
 ggplot(d, aes(x = gCF, y = sCF)) + 
   geom_point(aes(colour = Label)) + 
   scale_colour_viridis(direction = -1) + 
