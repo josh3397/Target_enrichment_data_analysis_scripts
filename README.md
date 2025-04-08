@@ -1,5 +1,3 @@
-#Target_enrichment_data_analysis_scripts_Lepidoptera
-
 This repository contains Bash scripts useful for bioinformatics analyses of target enrichment data, and R scripts used in various analyses done in papers given below. 
 
 References -
