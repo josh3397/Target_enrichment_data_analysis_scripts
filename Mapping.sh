@@ -4,7 +4,7 @@
 
 inputdir="./fastp_cleaned/"
 outdir="./mapped/"
-ref_seq=$1
+ref_seq=$1  #reference will be given as command line argument
 
 mkdir -p "$outdir"
 
