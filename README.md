@@ -1,6 +1,7 @@
 # Lepidotpera_target_enrichment
 
 This repository contains Bash scripts useful for bioinformatics analyses of target enrichment data, and R scripts used in various analyses done in papers given below. 
+The bash scripts given automate various bioinformatics tasks - trimming, bwa mapping, de-novo assembly, orthology inference, etc. There is also a small snakemake workflow (Snakefile) to enable performing these tasks one after another. 
 
 References -
 1.	Joshi M., Espeland M., Huemer P., deWaard J., & Mutanen M. 2024. Species Delimitation Under Allopatry: Genomic Insights Within and Across Continents in Lepidoptera. Insect systematics and Diversity. 8(5). (https://doi.org/10.1093/isd/ixae027)
